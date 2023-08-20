@@ -1,0 +1,14 @@
+/* Enter Your Custom CSS Here */
+div#wpcf7-f201-p203-01{
+    background-color: #e9f2f9; border: 1px solid #55c3dc; padding:20px;
+    }
+    #wpcf7-f201-p203-01 input[type="text"], #wpcf7-f201-p203-01 input[type="email"],
+    #wpcf7-f201-p203-01 textarea [
+    background:#55c3dc; color:#FFF; font-family:lora, "Open Sans", sans-serif;
+    font-style: italic;
+    }
+    #wpcf7-f281-p203-01 input[type="submit"], #wpcf7-f201-p203-01 input[type="button"] { background-color:#725f4c;
+    width:100%;
+    text-align:center;
+    text-transform:uppercase;
+    }
